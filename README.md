@@ -1,154 +1,3145 @@
-<p align="center">
-  <img src="PDF Design/logo.png" alt="MedPal Logo" width="160" />
-</p>
+# 🚀 MedPal Expansion
+> Building the largest collaborative educational platform for healthcare students in Egypt.
+---
 
-<h1 align="center">MedPal Upgrading System</h1>
+# 📊 Overall Progress
 
-<p align="center">
-  <strong>Leader in Smart Medical Education & Question Bank Systems</strong>
-</p>
-
-<p align="center">
-  <a href="https://medpaledu.com/"><img src="https://img.shields.io/badge/Website-medpaledu.com-blue?style=flat-square&logo=google-chrome" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Language-English-green?style=flat-square" alt="Language English" />
-  <img src="https://img.shields.io/badge/Platform-Web-orange?style=flat-square" alt="Platform Web" />
-</p>
+| University | Status |
+|------------|--------|
+| 🏛️ Cairo University | 🟡 In Progress |
+| 🏛️ Ain Shams University | ⚪ Planned |
+| 🏛️ Alexandria University | ⚪ Planned |
+| 🏛️ Mansoura University | ⚪ Planned |
+| 🏛️ Helwan University | ⚪ Planned |
+| 🏛️ Helwan National University | ⚪ Planned |
+| 🏛️ MUST University | ⚪ Planned |
 
 ---
 
-## 📖 Overview
+# 🏛️ Cairo University
 
-**MedPal** is an innovative platform for smart medical reviews and question banks, tailored specifically for health sciences and medical students. This repository houses the upgrading system, PDF layouts (such as print-ready MCQ sheets), front-end upgrades, UI optimizations, and bug fixes to deliver a seamless, high-quality user experience.
+## 🩺 Faculty of Medicine
+
+**Progress:** `███████░░░ 70%`
+
+<details>
+<summary>📚 Year 1 (اولى) (5/5 Contributors ✅)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | موظف 1 | ✅ |
+| Content | موظف 2 | ✅ |
+| Content | موظف 3 | ✅ |
+| Reviewer | موظف 4 | ✅ |
+| QA | موظف 5 | ✅ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
 
 ---
 
-## 🚀 Key Features & Upgrades
+## 🦷 Faculty of Dentistry
 
-- **📄 Premium PDF Generator**: A4 print-optimized design templates for offline medical review sheets.
-- **⚡ Sticky Headers & Fluid Navigation**: Enhancing responsiveness and view stability for long question banks.
-- **📦 Local Storage Sync**: Storing user states, progress, settings, and question history.
-- **🔔 Interactive Toast & Notification System**: Built-in popup messages to keep students updated.
-- **🎨 Modern Custom UI Styles**: Elegant custom scrollbars, transitions, and clean layouts matching the medical theme.
+**Progress:** `██░░░░░░░░ 20%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
 
 ---
 
-## 🎓 Academic Expansion Roadmap
+## 📋 Faculty of Nursing
 
-To support medical and science students across Egypt, MedPal is expanding its comprehensive question banks and study modules. Below is the active coverage and roadmap of supported universities, faculties, and academic years.
+**Progress:** `░░░░░░░░░░ 0%`
 
-### 🏛️ Supported Universities
+<details>
+<summary>📚 Year 1 (اولى)</summary>
 
-*Select a university below to view the covered faculties and academic years:*
-
-<details open>
-  <summary><b>🏛️ Cairo University (CU)</b></summary>
-  <br>
-
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🏫 Helwan University (HU)</b></summary>
-  <br>
+<summary>📚 Year 2 (تانية)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🎓 Helwan National University (HNU)</b></summary>
-  <br>
+<summary>📚 Year 3 (تالتة)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🏛️ Ain Shams University (ASU)</b></summary>
-  <br>
+<summary>📚 Year 4 (رابعة)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🌊 Alexandria University (ALEXU)</b></summary>
-  <br>
+<summary>📚 Year 2 (تانية)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🧬 Mansoura University (MANSU)</b></summary>
-  <br>
+<summary>📚 Year 3 (تالتة)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
 <details>
-  <summary><b>🚀 Misr University for Science and Technology (MUST)</b></summary>
-  <br>
+<summary>📚 Year 4 (رابعة)</summary>
 
-  | Faculty | Covered Academic Years |
-  | :--- | :--- |
-  | 🩺 **Faculty of Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🦷 **Faculty of Dentistry** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 📋 **Faculty of Nursing** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 💊 **Faculty of Pharmacy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🦾 **Faculty of Physical Therapy** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
-  | 🐾 **Faculty of Veterinary Medicine** | `1st Year` `2nd Year` `3rd Year` `4th Year` `5th Year` |
-  | 🧪 **Faculty of Science** | `1st Year` `2nd Year` `3rd Year` `4th Year` |
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ Ain Shams University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ Alexandria University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ Mansoura University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ Helwan University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ Helwan National University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+# 🏛️ MUST University
+
+## 🩺 Faculty of Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦷 Faculty of Dentistry
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 📋 Faculty of Nursing
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 💊 Faculty of Pharmacy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🦾 Faculty of Physical Therapy
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🐾 Faculty of Veterinary Medicine
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 5 (خامسة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+---
+
+## 🧪 Faculty of Science
+
+**Progress:** `░░░░░░░░░░ 0%`
+
+<details>
+<summary>📚 Year 1 (اولى)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 2 (تانية)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 3 (تالتة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
+
+</details>
+
+<details>
+<summary>📚 Year 4 (رابعة)</summary>
+
+| Role | Contributor | Status |
+|------|-------------|--------|
+| Coordinator | | ⬜ |
+| Content | | ⬜ |
+| Content | | ⬜ |
+| Reviewer | | ⬜ |
+| QA | | ⬜ |
 
 </details>
 
@@ -172,4 +3163,3 @@ To support medical and science students across Egypt, MedPal is expanding its co
 ## 🔗 Quick Links
 - **Official Website**: [medpaledu.com](https://medpaledu.com/)
 - **Contact Support**: support@medpaledu.com
-
