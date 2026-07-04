@@ -1,0 +1,9 @@
+# You can edit this file with your custom directory structure and re-run parser.py to update the CSV.
+- Cairo University
+-- Faculty of Medicine: "LeaderName" "LeaderContact"
+--- 1st Year
+---- Person 1: "Name" "Contact"
+---- Person 2: "Name" "Contact"
+---- Person 3: "Name" "Contact"
+---- Person 4: "Name" "Contact"
+---- Person 5: "Name" "Contact"
